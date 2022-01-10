@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Jalasoft.Dev33Level2.Library.DAL\Jalasoft.Dev33Level2.Library.DAL.csproj" />
+    <ProjectReference Include="..\Jalasoft.Dev33Level2.Library.Models\Jalasoft.Dev33Level2.Library.Models.csproj" />
+  </ItemGroup>
+
+</Project>

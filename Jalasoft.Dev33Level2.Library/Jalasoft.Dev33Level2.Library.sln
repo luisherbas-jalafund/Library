@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jalasoft.Dev33Level2.Library.Api", "Jalasoft.Dev33Level2.Library.Api\Jalasoft.Dev33Level2.Library.Api.csproj", "{FA6B0F8E-CD20-41EC-883B-67AA88C7A439}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jalasoft.Dev33Level2.Library.Models", "Jalasoft.Dev33Level2.Library.Models\Jalasoft.Dev33Level2.Library.Models.csproj", "{FA7C8831-F20E-45ED-96E4-2D9B290196D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jalasoft.Dev33Level2.Library.DAL", "Jalasoft.Dev33Level2.Library.DAL\Jalasoft.Dev33Level2.Library.DAL.csproj", "{5401D759-8412-4547-BF17-1AA344435FE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jalasoft.Dev33Level2.Library.Services", "Jalasoft.Dev33Level2.Library.Services\Jalasoft.Dev33Level2.Library.Services.csproj", "{8F6DD769-0075-4A33-870E-35E5D0B2B4C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jalasoft.Dev33Level2.Library.ServicesTests", "Jalasoft.Dev33Level2.Library.ServicesTests\Jalasoft.Dev33Level2.Library.ServicesTests.csproj", "{C1D3BF2B-2FA3-4FDB-881F-B761C4E42603}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jalasoft.Dev33Level2.Library.Controllers.Tests", "Jalasoft.Dev33Level2.Library.Controllers.Tests\Jalasoft.Dev33Level2.Library.Controllers.Tests.csproj", "{48457A80-E7D0-43FB-94D5-90033E70C014}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA6B0F8E-CD20-41EC-883B-67AA88C7A439}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA6B0F8E-CD20-41EC-883B-67AA88C7A439}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA6B0F8E-CD20-41EC-883B-67AA88C7A439}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA6B0F8E-CD20-41EC-883B-67AA88C7A439}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA7C8831-F20E-45ED-96E4-2D9B290196D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA7C8831-F20E-45ED-96E4-2D9B290196D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA7C8831-F20E-45ED-96E4-2D9B290196D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA7C8831-F20E-45ED-96E4-2D9B290196D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5401D759-8412-4547-BF17-1AA344435FE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5401D759-8412-4547-BF17-1AA344435FE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5401D759-8412-4547-BF17-1AA344435FE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5401D759-8412-4547-BF17-1AA344435FE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F6DD769-0075-4A33-870E-35E5D0B2B4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F6DD769-0075-4A33-870E-35E5D0B2B4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F6DD769-0075-4A33-870E-35E5D0B2B4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F6DD769-0075-4A33-870E-35E5D0B2B4C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1D3BF2B-2FA3-4FDB-881F-B761C4E42603}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1D3BF2B-2FA3-4FDB-881F-B761C4E42603}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1D3BF2B-2FA3-4FDB-881F-B761C4E42603}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1D3BF2B-2FA3-4FDB-881F-B761C4E42603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48457A80-E7D0-43FB-94D5-90033E70C014}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48457A80-E7D0-43FB-94D5-90033E70C014}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48457A80-E7D0-43FB-94D5-90033E70C014}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48457A80-E7D0-43FB-94D5-90033E70C014}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317E02D2-C07F-442C-B748-D12B537951D1}
+	EndGlobalSection
+EndGlobal
